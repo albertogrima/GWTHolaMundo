@@ -1,0 +1,2 @@
+serviceClass: com.example.GWTHolaMundo.client.GreetingService
+path: 4F1310663729A6C3AFBC96D569D025A2.gwt.rpc
