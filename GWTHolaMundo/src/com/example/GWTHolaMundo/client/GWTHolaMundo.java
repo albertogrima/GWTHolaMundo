@@ -66,7 +66,7 @@ public class GWTHolaMundo implements EntryPoint {
 		
 		Label lblNewLabel = new Label("New label");
 		rootPanel.add(lblNewLabel, 10, 232);
-		lblNewLabel.setSize("430px", "18px");
+		lblNewLabel.setSize("414px", "18px");
 
 		// Create the popup dialog box
 		final DialogBox dialogBox = new DialogBox();
